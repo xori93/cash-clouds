@@ -1,0 +1,44 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+#landing {
+}
+
+.nav__container {
+  margin-top: 16px;
+}
+
+.row {
+  margin: 0 auto;
+  width: 100%;
+  max-width: 1200px;
+}
+
+.nav__row {
+  display: flex;
+  justify-content: space-between;
+  width: 100%;
+}
+
+ul {
+  display: flex;
+}
+
+.nav__links {
+  
+}
+
+li {
+  list-style: none;
+}
+a {
+  text-decoration: none;
+}
+
+.nav__link {
+  margin-left: 16px; 
+  color: #413030; 
+}
